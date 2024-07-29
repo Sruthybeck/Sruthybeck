@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Sruthybeck
-- 👀 I’m interested in anthing Tech, Cybersecurity and Digital Forensics
+- 👋 Hi, I’m @Sruthybeck (Sruthy Thomas)
+- 👀 I’m interested in anything Tech, Cybersecurity and Digital Forensics
 - 🌱 I’m currently learning Coding and earning CompTIA certs
 - 💞️ I’m looking to collaborate on Cybersecurity Projects with directions
 - 📫 How to reach me: sruthy.thomas98@outlook.com
